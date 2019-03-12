@@ -1,3 +1,1 @@
-FROM scratch
-ADD hello.sh /
-ENTRYPOINT ["/hello.sh"]
+FROM gcr.io/kubernetes-helm/tiller:v2.13.0
