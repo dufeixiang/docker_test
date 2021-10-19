@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.28.2@sha256:f804c19b511f11fb631eb9070d446ebbc7cd707065a6c967bd300c2fa349eb9d
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.28.2@sha256:eaa38d36350f866501dde2195392576d31fe6d288915c518ae5c10d97d86e3e6
