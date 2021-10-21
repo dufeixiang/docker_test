@@ -1,1 +1,1 @@
-FROM mcr.microsoft.com/powershell:nanoserver@sha256:b6d5ff841b78bdf2dfed7550000fd4f3437385b8fa686ec0f010be24777654d6
+FROM gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard@sha256:95f71a2568ced67ec370b5360f88bec3280601908cac9e62dfbb801114480437
