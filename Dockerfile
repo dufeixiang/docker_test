@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/eventlistenersink:v0.17.0@sha256:317e4e93daa1c3776eab0822f53fc2cafd86ad9c62f6f8f5a03417515bf32d5a
+FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.17.0@sha256:30020693f4f0c6fc05989568b25b22841cd660caa44322a0b2b499d66a8250b6
