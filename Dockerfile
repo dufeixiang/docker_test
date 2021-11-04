@@ -1,1 +1,1 @@
-FROM us-docker.pkg.dev/spinnaker-community/docker/gate:1.19.0-20201012200017
+FROM us-docker.pkg.dev/spinnaker-community/docker/orca:2.17.2-20210127223623
