@@ -1,1 +1,1 @@
-FROM us-docker.pkg.dev/spinnaker-community/docker/front50:0.26.0-20201013163321
+FROM us-docker.pkg.dev/spinnaker-community/docker/rosco:0.22.0-20201009170017
