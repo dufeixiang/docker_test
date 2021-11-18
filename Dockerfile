@@ -1,1 +1,1 @@
-FROM us-docker.pkg.dev/spinnaker-community/docker/kayenta:0.18.0-20201009200017
+FROM us-docker.pkg.dev/spinnaker-community/docker/fiat:1.14.0-20201009170017
