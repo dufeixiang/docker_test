@@ -1,1 +1,1 @@
-FROM gcr.io/kaniko-project/executor:latest
+FROM k8s.gcr.io/hpa-example
